@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "pathPattern": "/actions/stake",
+      "apiPath": "https://dial.to/api/helius/stake"
+    }
+  ]
+}
